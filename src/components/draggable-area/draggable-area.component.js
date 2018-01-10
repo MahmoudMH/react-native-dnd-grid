@@ -18,13 +18,8 @@ type Props = {
   onPressAddNew: () => void,
   // Passes these two callbacks down to Tag component
   onPress: (draggable: DraggableObject) => void,
-  onRenderItem: (
-    draggable: DraggableObject,
-    screenX: number,
-    screenY: number,
-    width: number,
-    height: number
-  ) => void,
+  onRenderItem: (draggable: DraggableObject) => void,
+  renderItem: (item: DraggableObject, onPress: void) => void,
   useKey: "id"
 }
 
@@ -68,10 +63,16 @@ export default class extends PureComponent {
   }
 
   componentWillUpdate = (nextProps, nextState) => {
+    const { items } = this.state
     LayoutAnimation.configureNext({
       ...LayoutAnimation.Presets.easeInEaseOut,
       duration: this.props.animationDuration
     })
+
+    // keep items in local state up to date as props change.
+    if (nextProps.items && items && nextProps.items.length !== items.length) {
+      this.setState({ items: nextProps.items })
+    }
   }
 
   createPanResponder = (): PanResponder => {
@@ -245,6 +246,7 @@ export default class extends PureComponent {
       brX: screenX + width,
       brY: screenY + height
     })
+    this.props.onRenderItem(draggable)
   }
 
   render() {
@@ -261,6 +263,7 @@ export default class extends PureComponent {
                 draggable={item}
                 onPress={onPress}
                 onRender={this.onRenderDraggable}
+                renderItem={this.props.renderItem}
               />
             )
           })}

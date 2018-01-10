@@ -1,7 +1,8 @@
 // @flow
 import React, { PureComponent } from "react"
+import { Text } from "react-native"
 import Pane from "components/pane"
-import DraggableArea from "components/draggable-area"
+import DraggableArea from "./src"
 
 import metrics from "utils/metrics"
 
@@ -36,12 +37,12 @@ export default class App extends PureComponent {
     ]
   }
 
-  onDraggablePress = pane => {
-    console.log("pane", pane)
+  onDraggablePress = draggable => {
+    console.log("onDraggablePress", draggable)
   }
 
-  onDraggableRender = () => {
-    alert("onDraggableRender")
+  onDraggableRender = draggable => {
+    console.log("onDraggableRender", draggable)
   }
 
   onPressAddNewTag = () => {
@@ -57,14 +58,29 @@ export default class App extends PureComponent {
     })
   }
 
+  renderItem = (item, onPress) => {
+    const size = metrics.screenWidth / 4 - 20
+    return (
+      <Pane
+        isBeingDragged={item.isBeingDragged}
+        onPress={onPress}
+        width={size}
+        height={size}
+      >
+        <Text style={{ color: "white" }}>{item.name}</Text>
+      </Pane>
+    )
+  }
+
   render() {
     const { items } = this.state
     return (
       <DraggableArea
         items={items}
-        onPress={this.removeItem}
+        onPress={this.onDraggablePress}
         onRenderItem={this.onDraggableRender}
         onPressAddNewTag={this.onPressAddNewTag}
+        renderItem={this.renderItem}
         useKey="name"
       />
     )

@@ -17,7 +17,8 @@ type Props = {
     screenY: number,
     width: number,
     height: number
-  ) => void
+  ) => void,
+  renderItem: (item: DraggableObject, onPress: void) => void
 }
 
 export default class Draggable extends PureComponent {
@@ -56,14 +57,7 @@ export default class Draggable extends PureComponent {
     const size = metrics.screenWidth / 4 - 20
     return (
       <View ref={el => (this.container = el)} onLayout={this.onLayout}>
-        <Pane
-          isBeingDragged={draggable.isBeingDragged}
-          onPress={this.onPress}
-          width={size}
-          height={size}
-        >
-          <Text style={{ color: "white" }}>{draggable.name}</Text>
-        </Pane>
+        {this.props.renderItem(draggable, this.onPress)}
       </View>
     )
   }

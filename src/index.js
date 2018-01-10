@@ -1,9 +1,3 @@
-// @flow
+import DraggableArea from "components/draggable-area"
 
-import React, { PureComponent } from "react"
-
-export default class extends PureComponent {
-  render() {
-    return this.props.children({})
-  }
-}
+export default DraggableArea
