@@ -15,7 +15,14 @@
     "type": "git",
     "url": "git+https://github.com/harrisrobin/react-native-dnd-grid.git"
   },
-  "keywords": ["react-native", "dnd", "drag", "and", "drop", "grid"],
+  "keywords": [
+    "react-native",
+    "dnd",
+    "drag",
+    "and",
+    "drop",
+    "grid"
+  ],
   "author": "Harris Robin Kalash",
   "license": "ISC",
   "bugs": {
