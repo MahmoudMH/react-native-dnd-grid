@@ -2,7 +2,7 @@
 import React, { PureComponent } from "react"
 import { Text } from "react-native"
 import Pane from "components/pane"
-import DraggableArea from "./src"
+import DraggableArea from "../src"
 
 import metrics from "utils/metrics"
 
