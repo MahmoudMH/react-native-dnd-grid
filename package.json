@@ -1,7 +1,6 @@
 {
   "name": "react-native-dnd-grid",
   "version": "0.1.0",
-  "private": true,
   "devDependencies": {},
   "jest": {
     "preset": "jest-expo"
