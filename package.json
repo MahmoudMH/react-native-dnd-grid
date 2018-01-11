@@ -1,13 +1,20 @@
 {
   "name": "react-native-dnd-grid",
   "version": "0.1.2",
-  "devDependencies": {},
+  "devDependencies": {
+    "react-native": "^0.52.0"
+  },
   "jest": {
     "preset": "jest-expo"
   },
   "dependencies": {},
+  "peerDependencies": {
+    "react": "^15.4.2",
+    "react-native": "0.50.3"
+  },
   "description": "Easy cross-platform drag and drop grid for react-native.",
-  "main": "src",
+  "main": "src/index",
+  "jsnext:main": "src/index",
   "scripts": {
     "release": "np"
   },

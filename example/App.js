@@ -1,10 +1,10 @@
 // @flow
 import React, { PureComponent } from "react"
-import { Text } from "react-native"
-import Pane from "components/pane"
-import DraggableArea from "../src"
+import { Text, View } from "react-native"
+import Pane from "./components/pane"
+import DraggableArea from "react-native-dnd-grid"
 
-import metrics from "utils/metrics"
+import metrics from "./utils/metrics"
 
 export default class App extends PureComponent {
   state = {
@@ -75,14 +75,24 @@ export default class App extends PureComponent {
   render() {
     const { items } = this.state
     return (
-      <DraggableArea
-        items={items}
-        onPress={this.onDraggablePress}
-        onRenderItem={this.onDraggableRender}
-        onPressAddNewTag={this.onPressAddNewTag}
-        renderItem={this.renderItem}
-        useKey="name"
-      />
+      <View
+        style={{
+          marginTop: 50,
+          flex: 1,
+          flexWrap: "wrap",
+          flexDirection: "row",
+          marginLeft: 10
+        }}
+      >
+        <DraggableArea
+          items={items}
+          onPress={this.onDraggablePress}
+          onRenderItem={this.onDraggableRender}
+          onPressAddNewTag={this.onPressAddNewTag}
+          renderItem={this.renderItem}
+          useKey="name"
+        />
+      </View>
     )
   }
 }

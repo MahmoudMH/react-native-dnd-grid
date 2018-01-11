@@ -3,8 +3,6 @@ import React, { PureComponent } from "react"
 import { View, Text } from "react-native"
 import type { NativeMethodsMixinType } from "react-native/Libraries/Renderer/shims/ReactNativeTypes"
 import type { DraggableObject } from "../types"
-import Pane from "../pane"
-import metrics from "../../utils/metrics"
 
 type Props = {
   draggable: DraggableObject,
@@ -54,7 +52,6 @@ export default class Draggable extends PureComponent {
 
   render() {
     const { draggable } = this.props
-    const size = metrics.screenWidth / 4 - 20
     return (
       <View ref={el => (this.container = el)} onLayout={this.onLayout}>
         {this.props.renderItem(draggable, this.onPress)}

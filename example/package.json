@@ -1,6 +1,7 @@
 {
   "name": "react-native-dnd-grid-example",
   "version": "0.1.0",
+  "main": "index",
   "devDependencies": {
     "babel-preset-flow": "^6.23.0",
     "eslint": "^4.14.0",
@@ -12,8 +13,7 @@
     "start": "react-native start",
     "android": "react-native run-android",
     "ios": "react-native run-ios",
-    "test": "node node_modules/jest/bin/jest.js --watch",
-    "flow": "flow"
+    "test": "node node_modules/jest/bin/jest.js --watch"
   },
   "jest": {
     "preset": "jest-expo"
@@ -22,19 +22,15 @@
     "lodash": "^4.17.4",
     "react": "16.0.0",
     "react-native": "0.50.3",
-    "styled-components": "^2.4.0"
+    "styled-components": "^2.4.0",
+    "react-native-dnd-grid": "file:../"
   },
   "description": "Easy cross-platform drag and drop grid for react-native.",
-  "main": "src",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/harrisrobin/react-native-dnd-grid.git"
   },
   "keywords": ["react-native", "dnd", "drag", "and", "drop", "grid"],
   "author": "Harris Robin Kalash",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/harrisrobin/react-native-dnd-grid/issues"
-  },
-  "homepage": "https://github.com/harrisrobin/react-native-dnd-grid#readme"
+  "license": "ISC"
 }

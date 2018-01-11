@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTRootView.m \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTRootViewDelegate.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTRootViewInternal.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTRootContentView.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTView.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTTouchHandler.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/UIView+React.h
