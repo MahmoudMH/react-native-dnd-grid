@@ -19,6 +19,7 @@ type Props = {
   // Passes these two callbacks down to Tag component
   onPress: (draggable: DraggableObject) => void,
   onRenderItem: (draggable: DraggableObject) => void,
+  onDragEnd: sortedItems => DraggableObject[],
   renderItem: (item: DraggableObject, onPress: void) => void,
   useKey: "id"
 }
@@ -148,6 +149,9 @@ export default class extends PureComponent {
       isBeingDragged: false
     })
     this.draggableBeingDragged = undefined
+    if (this.props.onDragEnd) {
+      this.props.onDragEnd(this.state.items)
+    }
   }
 
   // Enable dnd back after the animation is over
@@ -246,7 +250,9 @@ export default class extends PureComponent {
       brX: screenX + width,
       brY: screenY + height
     })
-    this.props.onRenderItem(draggable)
+    if (this.props.onRenderItem) {
+      this.props.onRenderItem(draggable)
+    }
   }
 
   render() {
