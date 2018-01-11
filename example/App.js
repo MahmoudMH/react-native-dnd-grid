@@ -92,7 +92,6 @@ export default class App extends PureComponent {
           items={items}
           onPress={this.onDraggablePress}
           onRenderItem={this.onDraggableRender}
-          onPressAddNewTag={this.onPressAddNewTag}
           onDragEnd={this.handleOnDragEnd}
           renderItem={this.renderItem}
           useKey="name"
