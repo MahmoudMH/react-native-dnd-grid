@@ -22,4 +22,5 @@ dependencies: \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTPointerEvents.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/UIView+Private.h \
-  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/UIView+React.h
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Modules/RCTI18nUtil.h

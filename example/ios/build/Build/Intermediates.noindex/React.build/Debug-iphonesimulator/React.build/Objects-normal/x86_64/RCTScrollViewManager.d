@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTScrollViewManager.m \
-  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTScrollViewManager.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/ScrollView/RCTScrollViewManager.m \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/ScrollView/RCTScrollViewManager.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTConvert.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTAnimationType.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTBorderStyle.h \
@@ -23,9 +23,9 @@ dependencies: \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTInvalidating.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/UIView+React.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTScrollView.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
-  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTView.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTShadowView.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTRootView.h \

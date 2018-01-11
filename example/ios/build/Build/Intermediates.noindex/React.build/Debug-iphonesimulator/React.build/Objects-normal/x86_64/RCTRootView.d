@@ -32,4 +32,5 @@ dependencies: \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/UIView+React.h
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Modules/RCTUIManagerUtils.h

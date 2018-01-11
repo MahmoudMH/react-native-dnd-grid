@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTScrollContentShadowView.m \
-  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTScrollContentShadowView.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/ScrollView/RCTScrollContentShadowView.m \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/ScrollView/RCTScrollContentShadowView.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTShadowView.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Views/RCTComponent.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTRootView.h \

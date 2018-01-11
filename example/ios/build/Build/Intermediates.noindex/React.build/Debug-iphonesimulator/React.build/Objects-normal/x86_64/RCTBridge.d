@@ -21,7 +21,6 @@ dependencies: \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTEventDispatcher.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
-  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTJSEnvironment.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTModuleData.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/Profiler/RCTProfile.h \

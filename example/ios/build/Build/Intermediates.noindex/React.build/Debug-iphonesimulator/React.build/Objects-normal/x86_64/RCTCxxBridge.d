@@ -423,10 +423,9 @@ dependencies: \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSIndexedRAMBundle.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBigString.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSModulesUnbundle.h \
-  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSIndexedRAMBundleRegistry.h \
-  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/RAMBundleRegistry.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/Platform.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/MessageQueueThread.h \
+  /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/RAMBundleRegistry.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/CxxBridge/NSDataBigString.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/CxxBridge/RCTJSCHelpers.h \
   /Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/React/CxxBridge/RCTMessageThread.h \

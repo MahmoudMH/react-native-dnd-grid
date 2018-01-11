@@ -72,6 +72,10 @@ export default class App extends PureComponent {
     )
   }
 
+  handleOnDragEnd = items => {
+    console.log("items", items)
+  }
+
   render() {
     const { items } = this.state
     return (
@@ -89,6 +93,7 @@ export default class App extends PureComponent {
           onPress={this.onDraggablePress}
           onRenderItem={this.onDraggableRender}
           onPressAddNewTag={this.onPressAddNewTag}
+          onDragEnd={this.handleOnDragEnd}
           renderItem={this.renderItem}
           useKey="name"
         />

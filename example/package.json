@@ -21,16 +21,23 @@
   "dependencies": {
     "lodash": "^4.17.4",
     "react": "16.0.0",
-    "react-native": "0.50.3",
-    "styled-components": "^2.4.0",
-    "react-native-dnd-grid": "file:../"
+    "react-native": "^0.52.0",
+    "react-native-dnd-grid": "file:../",
+    "styled-components": "^2.4.0"
   },
   "description": "Easy cross-platform drag and drop grid for react-native.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/harrisrobin/react-native-dnd-grid.git"
   },
-  "keywords": ["react-native", "dnd", "drag", "and", "drop", "grid"],
+  "keywords": [
+    "react-native",
+    "dnd",
+    "drag",
+    "and",
+    "drop",
+    "grid"
+  ],
   "author": "Harris Robin Kalash",
   "license": "ISC"
 }

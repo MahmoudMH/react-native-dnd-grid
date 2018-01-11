@@ -6,7 +6,7 @@
 <string>Apple LLVM version 9.0.0 (clang-900.0.39.2)</string>
  <key>files</key>
  <array>
-  <string>/Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.c</string>
+  <string>/Users/harrisrobinkalash/Workspace/Space/oss/react-native-dnd-grid/example/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.cpp</string>
  </array>
  <key>diagnostics</key>
  <array>
@@ -21,12 +21,12 @@
         <key>start</key>
          <array>
           <dict>
-           <key>line</key><integer>362</integer>
+           <key>line</key><integer>211</integer>
            <key>col</key><integer>3</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>362</integer>
+           <key>line</key><integer>211</integer>
            <key>col</key><integer>8</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -34,12 +34,12 @@
         <key>end</key>
          <array>
           <dict>
-           <key>line</key><integer>362</integer>
+           <key>line</key><integer>211</integer>
            <key>col</key><integer>10</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>362</integer>
+           <key>line</key><integer>211</integer>
            <key>col</key><integer>28</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -51,7 +51,7 @@
      <key>kind</key><string>event</string>
      <key>location</key>
      <dict>
-      <key>line</key><integer>362</integer>
+      <key>line</key><integer>211</integer>
       <key>col</key><integer>10</integer>
       <key>file</key><integer>0</integer>
      </dict>
@@ -59,12 +59,12 @@
      <array>
        <array>
         <dict>
-         <key>line</key><integer>362</integer>
+         <key>line</key><integer>211</integer>
          <key>col</key><integer>10</integer>
          <key>file</key><integer>0</integer>
         </dict>
         <dict>
-         <key>line</key><integer>362</integer>
+         <key>line</key><integer>211</integer>
          <key>col</key><integer>48</integer>
          <key>file</key><integer>0</integer>
         </dict>
@@ -80,7 +80,7 @@
      <key>kind</key><string>event</string>
      <key>location</key>
      <dict>
-      <key>line</key><integer>347</integer>
+      <key>line</key><integer>195</integer>
       <key>col</key><integer>12</integer>
       <key>file</key><integer>0</integer>
      </dict>
@@ -98,12 +98,12 @@
         <key>start</key>
          <array>
           <dict>
-           <key>line</key><integer>347</integer>
+           <key>line</key><integer>195</integer>
            <key>col</key><integer>12</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>347</integer>
+           <key>line</key><integer>195</integer>
            <key>col</key><integer>20</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -111,12 +111,12 @@
         <key>end</key>
          <array>
           <dict>
-           <key>line</key><integer>348</integer>
+           <key>line</key><integer>196</integer>
            <key>col</key><integer>3</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>348</integer>
+           <key>line</key><integer>196</integer>
            <key>col</key><integer>7</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -128,7 +128,7 @@
      <key>kind</key><string>event</string>
      <key>location</key>
      <dict>
-      <key>line</key><integer>348</integer>
+      <key>line</key><integer>196</integer>
       <key>col</key><integer>3</integer>
       <key>file</key><integer>0</integer>
      </dict>
@@ -136,12 +136,12 @@
      <array>
        <array>
         <dict>
-         <key>line</key><integer>348</integer>
+         <key>line</key><integer>196</integer>
          <key>col</key><integer>3</integer>
          <key>file</key><integer>0</integer>
         </dict>
         <dict>
-         <key>line</key><integer>348</integer>
+         <key>line</key><integer>196</integer>
          <key>col</key><integer>22</integer>
          <key>file</key><integer>0</integer>
         </dict>
@@ -161,12 +161,12 @@
         <key>start</key>
          <array>
           <dict>
-           <key>line</key><integer>348</integer>
+           <key>line</key><integer>196</integer>
            <key>col</key><integer>3</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>348</integer>
+           <key>line</key><integer>196</integer>
            <key>col</key><integer>7</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -174,12 +174,12 @@
         <key>end</key>
          <array>
           <dict>
-           <key>line</key><integer>349</integer>
+           <key>line</key><integer>197</integer>
            <key>col</key><integer>3</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>349</integer>
+           <key>line</key><integer>197</integer>
            <key>col</key><integer>20</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -195,12 +195,12 @@
         <key>start</key>
          <array>
           <dict>
-           <key>line</key><integer>349</integer>
+           <key>line</key><integer>197</integer>
            <key>col</key><integer>3</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>349</integer>
+           <key>line</key><integer>197</integer>
            <key>col</key><integer>20</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -208,13 +208,13 @@
         <key>end</key>
          <array>
           <dict>
-           <key>line</key><integer>349</integer>
-           <key>col</key><integer>30</integer>
+           <key>line</key><integer>198</integer>
+           <key>col</key><integer>15</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>349</integer>
-           <key>col</key><integer>33</integer>
+           <key>line</key><integer>198</integer>
+           <key>col</key><integer>18</integer>
            <key>file</key><integer>0</integer>
           </dict>
          </array>
@@ -225,30 +225,30 @@
      <key>kind</key><string>event</string>
      <key>location</key>
      <dict>
-      <key>line</key><integer>349</integer>
-      <key>col</key><integer>30</integer>
+      <key>line</key><integer>198</integer>
+      <key>col</key><integer>15</integer>
       <key>file</key><integer>0</integer>
      </dict>
      <key>ranges</key>
      <array>
        <array>
         <dict>
-         <key>line</key><integer>349</integer>
-         <key>col</key><integer>30</integer>
+         <key>line</key><integer>198</integer>
+         <key>col</key><integer>15</integer>
          <key>file</key><integer>0</integer>
         </dict>
         <dict>
-         <key>line</key><integer>349</integer>
-         <key>col</key><integer>41</integer>
+         <key>line</key><integer>198</integer>
+         <key>col</key><integer>29</integer>
          <key>file</key><integer>0</integer>
         </dict>
        </array>
      </array>
      <key>depth</key><integer>1</integer>
      <key>extended_message</key>
-     <string>Assuming &apos;node&apos; is equal to NULL</string>
+     <string>Assuming pointer value is null</string>
      <key>message</key>
-     <string>Assuming &apos;node&apos; is equal to NULL</string>
+     <string>Assuming pointer value is null</string>
     </dict>
     <dict>
      <key>kind</key><string>control</string>
@@ -258,25 +258,25 @@
         <key>start</key>
          <array>
           <dict>
-           <key>line</key><integer>349</integer>
-           <key>col</key><integer>30</integer>
+           <key>line</key><integer>198</integer>
+           <key>col</key><integer>15</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>349</integer>
-           <key>col</key><integer>33</integer>
+           <key>line</key><integer>198</integer>
+           <key>col</key><integer>18</integer>
            <key>file</key><integer>0</integer>
           </dict>
          </array>
         <key>end</key>
          <array>
           <dict>
-           <key>line</key><integer>349</integer>
+           <key>line</key><integer>199</integer>
            <key>col</key><integer>3</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>349</integer>
+           <key>line</key><integer>199</integer>
            <key>col</key><integer>20</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -292,12 +292,12 @@
         <key>start</key>
          <array>
           <dict>
-           <key>line</key><integer>349</integer>
+           <key>line</key><integer>199</integer>
            <key>col</key><integer>3</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>349</integer>
+           <key>line</key><integer>199</integer>
            <key>col</key><integer>20</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -305,12 +305,12 @@
         <key>end</key>
          <array>
           <dict>
-           <key>line</key><integer>352</integer>
+           <key>line</key><integer>201</integer>
            <key>col</key><integer>3</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>352</integer>
+           <key>line</key><integer>201</integer>
            <key>col</key><integer>8</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -322,7 +322,7 @@
      <key>kind</key><string>event</string>
      <key>location</key>
      <dict>
-      <key>line</key><integer>352</integer>
+      <key>line</key><integer>201</integer>
       <key>col</key><integer>3</integer>
       <key>file</key><integer>0</integer>
      </dict>
@@ -330,13 +330,13 @@
      <array>
        <array>
         <dict>
-         <key>line</key><integer>352</integer>
-         <key>col</key><integer>3</integer>
+         <key>line</key><integer>201</integer>
+         <key>col</key><integer>10</integer>
          <key>file</key><integer>0</integer>
         </dict>
         <dict>
-         <key>line</key><integer>352</integer>
-         <key>col</key><integer>48</integer>
+         <key>line</key><integer>201</integer>
+         <key>col</key><integer>13</integer>
          <key>file</key><integer>0</integer>
         </dict>
        </array>
@@ -351,15 +351,15 @@
    <key>description</key><string>Null pointer argument in call to memory copy function</string>
    <key>category</key><string>Logic error</string>
    <key>type</key><string>Unix API</string>
-   <key>check_name</key><string>unix.cstring.NullArg</string>
+   <key>check_name</key><string>cplusplus.NewDeleteLeaks</string>
    <!-- This hash is experimental and going to change! -->
-   <key>issue_hash_content_of_line_in_context</key><string>40e3515d33ee3b4e4bc074229aaa9453</string>
+   <key>issue_hash_content_of_line_in_context</key><string>d836ce3ea00724bcff490f49ed3fd89d</string>
   <key>issue_context_kind</key><string>function</string>
   <key>issue_context</key><string>YGNodeNewWithConfig</string>
-  <key>issue_hash_function_offset</key><string>5</string>
+  <key>issue_hash_function_offset</key><string>6</string>
   <key>location</key>
   <dict>
-   <key>line</key><integer>352</integer>
+   <key>line</key><integer>201</integer>
    <key>col</key><integer>3</integer>
    <key>file</key><integer>0</integer>
   </dict>
@@ -371,7 +371,7 @@
      <key>kind</key><string>event</string>
      <key>location</key>
      <dict>
-      <key>line</key><integer>422</integer>
+      <key>line</key><integer>289</integer>
       <key>col</key><integer>3</integer>
       <key>file</key><integer>0</integer>
      </dict>
@@ -379,12 +379,12 @@
      <array>
        <array>
         <dict>
-         <key>line</key><integer>422</integer>
+         <key>line</key><integer>289</integer>
          <key>col</key><integer>3</integer>
          <key>file</key><integer>0</integer>
         </dict>
         <dict>
-         <key>line</key><integer>422</integer>
+         <key>line</key><integer>289</integer>
          <key>col</key><integer>26</integer>
          <key>file</key><integer>0</integer>
         </dict>
@@ -404,12 +404,12 @@
         <key>start</key>
          <array>
           <dict>
-           <key>line</key><integer>422</integer>
+           <key>line</key><integer>289</integer>
            <key>col</key><integer>3</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>422</integer>
+           <key>line</key><integer>289</integer>
            <key>col</key><integer>7</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -417,12 +417,12 @@
         <key>end</key>
          <array>
           <dict>
-           <key>line</key><integer>423</integer>
+           <key>line</key><integer>290</integer>
            <key>col</key><integer>3</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>423</integer>
+           <key>line</key><integer>290</integer>
            <key>col</key><integer>10</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -438,12 +438,12 @@
         <key>start</key>
          <array>
           <dict>
-           <key>line</key><integer>423</integer>
+           <key>line</key><integer>290</integer>
            <key>col</key><integer>3</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>423</integer>
+           <key>line</key><integer>290</integer>
            <key>col</key><integer>10</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -451,12 +451,12 @@
         <key>end</key>
          <array>
           <dict>
-           <key>line</key><integer>423</integer>
+           <key>line</key><integer>290</integer>
            <key>col</key><integer>12</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>423</integer>
+           <key>line</key><integer>290</integer>
            <key>col</key><integer>17</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -468,7 +468,7 @@
      <key>kind</key><string>event</string>
      <key>location</key>
      <dict>
-      <key>line</key><integer>423</integer>
+      <key>line</key><integer>290</integer>
       <key>col</key><integer>12</integer>
       <key>file</key><integer>0</integer>
      </dict>
@@ -476,22 +476,22 @@
      <array>
        <array>
         <dict>
-         <key>line</key><integer>423</integer>
+         <key>line</key><integer>290</integer>
          <key>col</key><integer>12</integer>
          <key>file</key><integer>0</integer>
         </dict>
         <dict>
-         <key>line</key><integer>423</integer>
-         <key>col</key><integer>25</integer>
+         <key>line</key><integer>290</integer>
+         <key>col</key><integer>28</integer>
          <key>file</key><integer>0</integer>
         </dict>
        </array>
      </array>
      <key>depth</key><integer>0</integer>
      <key>extended_message</key>
-     <string>Assuming &apos;config&apos; is equal to NULL</string>
+     <string>Assuming pointer value is null</string>
      <key>message</key>
-     <string>Assuming &apos;config&apos; is equal to NULL</string>
+     <string>Assuming pointer value is null</string>
     </dict>
     <dict>
      <key>kind</key><string>control</string>
@@ -501,12 +501,12 @@
         <key>start</key>
          <array>
           <dict>
-           <key>line</key><integer>423</integer>
+           <key>line</key><integer>290</integer>
            <key>col</key><integer>12</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>423</integer>
+           <key>line</key><integer>290</integer>
            <key>col</key><integer>17</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -514,12 +514,12 @@
         <key>end</key>
          <array>
           <dict>
-           <key>line</key><integer>423</integer>
+           <key>line</key><integer>290</integer>
            <key>col</key><integer>3</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>423</integer>
+           <key>line</key><integer>290</integer>
            <key>col</key><integer>10</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -535,12 +535,12 @@
         <key>start</key>
          <array>
           <dict>
-           <key>line</key><integer>423</integer>
+           <key>line</key><integer>290</integer>
            <key>col</key><integer>3</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>423</integer>
+           <key>line</key><integer>290</integer>
            <key>col</key><integer>10</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -548,12 +548,12 @@
         <key>end</key>
          <array>
           <dict>
-           <key>line</key><integer>426</integer>
+           <key>line</key><integer>293</integer>
            <key>col</key><integer>3</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>426</integer>
+           <key>line</key><integer>293</integer>
            <key>col</key><integer>8</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -565,7 +565,7 @@
      <key>kind</key><string>event</string>
      <key>location</key>
      <dict>
-      <key>line</key><integer>426</integer>
+      <key>line</key><integer>293</integer>
       <key>col</key><integer>3</integer>
       <key>file</key><integer>0</integer>
      </dict>
@@ -573,13 +573,13 @@
      <array>
        <array>
         <dict>
-         <key>line</key><integer>426</integer>
-         <key>col</key><integer>3</integer>
+         <key>line</key><integer>293</integer>
+         <key>col</key><integer>10</integer>
          <key>file</key><integer>0</integer>
         </dict>
         <dict>
-         <key>line</key><integer>426</integer>
-         <key>col</key><integer>54</integer>
+         <key>line</key><integer>293</integer>
+         <key>col</key><integer>15</integer>
          <key>file</key><integer>0</integer>
         </dict>
        </array>
@@ -594,15 +594,15 @@
    <key>description</key><string>Null pointer argument in call to memory copy function</string>
    <key>category</key><string>Logic error</string>
    <key>type</key><string>Unix API</string>
-   <key>check_name</key><string>unix.cstring.NullArg</string>
+   <key>check_name</key><string>cplusplus.NewDeleteLeaks</string>
    <!-- This hash is experimental and going to change! -->
-   <key>issue_hash_content_of_line_in_context</key><string>a05562f7ce75e13bd411df4fd9443d92</string>
+   <key>issue_hash_content_of_line_in_context</key><string>2d6f4cf00ada6e78cfaac313ace4ce48</string>
   <key>issue_context_kind</key><string>function</string>
   <key>issue_context</key><string>YGConfigNew</string>
   <key>issue_hash_function_offset</key><string>5</string>
   <key>location</key>
   <dict>
-   <key>line</key><integer>426</integer>
+   <key>line</key><integer>293</integer>
    <key>col</key><integer>3</integer>
    <key>file</key><integer>0</integer>
   </dict>
