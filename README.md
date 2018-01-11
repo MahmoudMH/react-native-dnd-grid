@@ -154,4 +154,4 @@ Contributions are very welcome: bug fixes, features, documentation, tests.
 
 #### License
 
-All pull requests that get merged will be made available under [the MIT license](https://github.com/harrisrobin/react-native-dnd-grid/blob/master/LICENSE.md), as the rest of the repository.
+All pull requests that get merged will be made available under [the MIT license](https://github.com/harrisrobin/react-native-dnd-grid/blob/master/LICENSE), as the rest of the repository.
